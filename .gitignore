@@ -1,6 +1,7 @@
+access_log
 *.php
+*.log
 db.php
 download.php
 insert.php
 index.php
-access_log
