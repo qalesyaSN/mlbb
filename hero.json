@@ -1,8 +1,15 @@
 [
     {
-        "heroid": "127",
+        "heroid": "128",
         "name": "Marcel",
         "role": "Tank/Support",
+        "key": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/128.png",
+        "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/128.json"
+    },
+    {
+        "heroid": "127",
+        "name": "Sora",
+        "role": "Fighter",
         "key": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/127.png",
         "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/127.json"
     },
