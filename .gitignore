@@ -5,3 +5,5 @@ db.php
 download.php
 insert.php
 index.php
+api/
+config/
