@@ -1,0 +1,906 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "Data hero berhasil diambil",
+    "meta": {
+        "total": 128
+    },
+    "data": [
+        {
+            "heroid": "1",
+            "name": "Miya",
+            "role": "Marksman",
+            "icon": "\/img\/1.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/1.json"
+        },
+        {
+            "heroid": "2",
+            "name": "Balmond",
+            "role": "Fighter",
+            "icon": "\/img\/2.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/2.json"
+        },
+        {
+            "heroid": "3",
+            "name": "Saber",
+            "role": "Assassin",
+            "icon": "\/img\/3.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/3.json"
+        },
+        {
+            "heroid": "4",
+            "name": "Alice",
+            "role": "Mage\/Tank",
+            "icon": "\/img\/4.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/4.json"
+        },
+        {
+            "heroid": "5",
+            "name": "Nana",
+            "role": "Mage\/Support",
+            "icon": "\/img\/5.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/5.json"
+        },
+        {
+            "heroid": "6",
+            "name": "Tigreal",
+            "role": "Tank",
+            "icon": "\/img\/6.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/6.json"
+        },
+        {
+            "heroid": "7",
+            "name": "Alucard",
+            "role": "Fighter\/Assassin",
+            "icon": "\/img\/7.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/7.json"
+        },
+        {
+            "heroid": "8",
+            "name": "Karina",
+            "role": "Assassin",
+            "icon": "\/img\/8.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/8.json"
+        },
+        {
+            "heroid": "9",
+            "name": "Akai",
+            "role": "Tank",
+            "icon": "\/img\/9.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/9.json"
+        },
+        {
+            "heroid": "10",
+            "name": "Franco",
+            "role": "Tank",
+            "icon": "\/img\/10.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/10.json"
+        },
+        {
+            "heroid": "11",
+            "name": "Bane",
+            "role": "Fighter\/Mage",
+            "icon": "\/img\/11.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/11.json"
+        },
+        {
+            "heroid": "12",
+            "name": "Bruno",
+            "role": "Marksman",
+            "icon": "\/img\/12.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/12.json"
+        },
+        {
+            "heroid": "13",
+            "name": "Clint",
+            "role": "Marksman",
+            "icon": "\/img\/13.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/13.json"
+        },
+        {
+            "heroid": "14",
+            "name": "Rafaela",
+            "role": "Support",
+            "icon": "\/img\/14.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/14.json"
+        },
+        {
+            "heroid": "15",
+            "name": "Eudora",
+            "role": "Mage",
+            "icon": "\/img\/15.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/15.json"
+        },
+        {
+            "heroid": "16",
+            "name": "Zilong",
+            "role": "Fighter\/Assassin",
+            "icon": "\/img\/16.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/16.json"
+        },
+        {
+            "heroid": "17",
+            "name": "Fanny",
+            "role": "Assassin",
+            "icon": "\/img\/17.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/17.json"
+        },
+        {
+            "heroid": "18",
+            "name": "Layla",
+            "role": "Marksman",
+            "icon": "\/img\/18.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/18.json"
+        },
+        {
+            "heroid": "19",
+            "name": "Minotaur",
+            "role": "Tank\/Support",
+            "icon": "\/img\/19.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/19.json"
+        },
+        {
+            "heroid": "20",
+            "name": "Lolita",
+            "role": "Support\/Tank",
+            "icon": "\/img\/20.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/20.json"
+        },
+        {
+            "heroid": "21",
+            "name": "Hayabusa",
+            "role": "Assassin",
+            "icon": "\/img\/21.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/21.json"
+        },
+        {
+            "heroid": "22",
+            "name": "Freya",
+            "role": "Fighter",
+            "icon": "\/img\/22.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/22.json"
+        },
+        {
+            "heroid": "23",
+            "name": "Gord",
+            "role": "Mage",
+            "icon": "\/img\/23.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/23.json"
+        },
+        {
+            "heroid": "24",
+            "name": "Natalia",
+            "role": "Assassin",
+            "icon": "\/img\/24.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/24.json"
+        },
+        {
+            "heroid": "25",
+            "name": "Kagura",
+            "role": "Mage",
+            "icon": "\/img\/25.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/25.json"
+        },
+        {
+            "heroid": "26",
+            "name": "Chou",
+            "role": "Fighter",
+            "icon": "\/img\/26.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/26.json"
+        },
+        {
+            "heroid": "27",
+            "name": "Sun",
+            "role": "Fighter",
+            "icon": "\/img\/27.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/27.json"
+        },
+        {
+            "heroid": "28",
+            "name": "Alpha",
+            "role": "Fighter",
+            "icon": "\/img\/28.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/28.json"
+        },
+        {
+            "heroid": "29",
+            "name": "Ruby",
+            "role": "Fighter\/Tank",
+            "icon": "\/img\/29.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/29.json"
+        },
+        {
+            "heroid": "30",
+            "name": "Yi Sun-shin",
+            "role": "Marksman\/Assassin",
+            "icon": "\/img\/30.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/30.json"
+        },
+        {
+            "heroid": "31",
+            "name": "Moskov",
+            "role": "Marksman",
+            "icon": "\/img\/31.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/31.json"
+        },
+        {
+            "heroid": "32",
+            "name": "Johnson",
+            "role": "Tank",
+            "icon": "\/img\/32.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/32.json"
+        },
+        {
+            "heroid": "33",
+            "name": "Cyclops",
+            "role": "Mage",
+            "icon": "\/img\/33.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/33.json"
+        },
+        {
+            "heroid": "34",
+            "name": "Estes",
+            "role": "Support",
+            "icon": "\/img\/34.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/34.json"
+        },
+        {
+            "heroid": "35",
+            "name": "Hilda",
+            "role": "Fighter\/Tank",
+            "icon": "\/img\/35.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/35.json"
+        },
+        {
+            "heroid": "36",
+            "name": "Aurora",
+            "role": "Mage",
+            "icon": "\/img\/36.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/36.json"
+        },
+        {
+            "heroid": "37",
+            "name": "Lapu-Lapu",
+            "role": "Fighter",
+            "icon": "\/img\/37.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/37.json"
+        },
+        {
+            "heroid": "38",
+            "name": "Vexana",
+            "role": "Mage",
+            "icon": "\/img\/38.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/38.json"
+        },
+        {
+            "heroid": "39",
+            "name": "Roger",
+            "role": "Fighter\/Marksman",
+            "icon": "\/img\/39.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/39.json"
+        },
+        {
+            "heroid": "40",
+            "name": "Karrie",
+            "role": "Marksman",
+            "icon": "\/img\/40.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/40.json"
+        },
+        {
+            "heroid": "41",
+            "name": "Gatotkaca",
+            "role": "Tank\/Fighter",
+            "icon": "\/img\/41.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/41.json"
+        },
+        {
+            "heroid": "42",
+            "name": "Harley",
+            "role": "Mage\/Assassin",
+            "icon": "\/img\/42.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/42.json"
+        },
+        {
+            "heroid": "43",
+            "name": "Irithel",
+            "role": "Marksman",
+            "icon": "\/img\/43.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/43.json"
+        },
+        {
+            "heroid": "44",
+            "name": "Grock",
+            "role": "Tank",
+            "icon": "\/img\/44.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/44.json"
+        },
+        {
+            "heroid": "45",
+            "name": "Argus",
+            "role": "Fighter",
+            "icon": "\/img\/45.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/45.json"
+        },
+        {
+            "heroid": "46",
+            "name": "Odette",
+            "role": "Mage",
+            "icon": "\/img\/46.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/46.json"
+        },
+        {
+            "heroid": "47",
+            "name": "Lancelot",
+            "role": "Assassin",
+            "icon": "\/img\/47.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/47.json"
+        },
+        {
+            "heroid": "48",
+            "name": "Diggie",
+            "role": "Support",
+            "icon": "\/img\/48.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/48.json"
+        },
+        {
+            "heroid": "49",
+            "name": "Hylos",
+            "role": "Tank",
+            "icon": "\/img\/49.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/49.json"
+        },
+        {
+            "heroid": "50",
+            "name": "Zhask",
+            "role": "Mage",
+            "icon": "\/img\/50.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/50.json"
+        },
+        {
+            "heroid": "51",
+            "name": "Helcurt",
+            "role": "Assassin",
+            "icon": "\/img\/51.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/51.json"
+        },
+        {
+            "heroid": "52",
+            "name": "Pharsa",
+            "role": "Mage",
+            "icon": "\/img\/52.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/52.json"
+        },
+        {
+            "heroid": "53",
+            "name": "Lesley",
+            "role": "Marksman\/Assassin",
+            "icon": "\/img\/53.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/53.json"
+        },
+        {
+            "heroid": "54",
+            "name": "Jawhead",
+            "role": "Fighter",
+            "icon": "\/img\/54.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/54.json"
+        },
+        {
+            "heroid": "55",
+            "name": "Angela",
+            "role": "Support",
+            "icon": "\/img\/55.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/55.json"
+        },
+        {
+            "heroid": "56",
+            "name": "Gusion",
+            "role": "Assassin",
+            "icon": "\/img\/56.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/56.json"
+        },
+        {
+            "heroid": "57",
+            "name": "Valir",
+            "role": "Mage",
+            "icon": "\/img\/57.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/57.json"
+        },
+        {
+            "heroid": "58",
+            "name": "Martis",
+            "role": "Fighter",
+            "icon": "\/img\/58.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/58.json"
+        },
+        {
+            "heroid": "59",
+            "name": "Uranus",
+            "role": "Tank",
+            "icon": "\/img\/59.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/59.json"
+        },
+        {
+            "heroid": "60",
+            "name": "Hanabi",
+            "role": "Marksman",
+            "icon": "\/img\/60.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/60.json"
+        },
+        {
+            "heroid": "61",
+            "name": "Chang'e",
+            "role": "Mage",
+            "icon": "\/img\/61.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/61.json"
+        },
+        {
+            "heroid": "62",
+            "name": "Kaja",
+            "role": "Support\/Fighter",
+            "icon": "\/img\/62.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/62.json"
+        },
+        {
+            "heroid": "63",
+            "name": "Selena",
+            "role": "Assassin\/Mage",
+            "icon": "\/img\/63.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/63.json"
+        },
+        {
+            "heroid": "64",
+            "name": "Aldous",
+            "role": "Fighter",
+            "icon": "\/img\/64.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/64.json"
+        },
+        {
+            "heroid": "65",
+            "name": "Claude",
+            "role": "Marksman",
+            "icon": "\/img\/65.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/65.json"
+        },
+        {
+            "heroid": "66",
+            "name": "Vale",
+            "role": "Mage",
+            "icon": "\/img\/66.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/66.json"
+        },
+        {
+            "heroid": "67",
+            "name": "Leomord",
+            "role": "Fighter",
+            "icon": "\/img\/67.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/67.json"
+        },
+        {
+            "heroid": "68",
+            "name": "Lunox",
+            "role": "Mage",
+            "icon": "\/img\/68.png",
+            "detail_api": "\/api\/hero-detail.php?id=68"
+        },
+        {
+            "heroid": "69",
+            "name": "Hanzo",
+            "role": "Assassin",
+            "icon": "\/img\/69.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/69.json"
+        },
+        {
+            "heroid": "70",
+            "name": "Belerick",
+            "role": "Tank",
+            "icon": "\/img\/70.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/70.json"
+        },
+        {
+            "heroid": "71",
+            "name": "Kimmy",
+            "role": "Marksman\/Mage",
+            "icon": "\/img\/71.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/71.json"
+        },
+        {
+            "heroid": "72",
+            "name": "Thamuz",
+            "role": "Fighter",
+            "icon": "\/img\/72.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/72.json"
+        },
+        {
+            "heroid": "73",
+            "name": "Harith",
+            "role": "Mage",
+            "icon": "\/img\/73.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/73.json"
+        },
+        {
+            "heroid": "74",
+            "name": "Minsitthar",
+            "role": "Fighter",
+            "icon": "\/img\/74.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/74.json"
+        },
+        {
+            "heroid": "75",
+            "name": "Kadita",
+            "role": "Mage\/Assassin",
+            "icon": "\/img\/75.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/75.json"
+        },
+        {
+            "heroid": "76",
+            "name": "Faramis",
+            "role": "Support\/Mage",
+            "icon": "\/img\/76.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/76.json"
+        },
+        {
+            "heroid": "77",
+            "name": "Badang",
+            "role": "Fighter",
+            "icon": "\/img\/77.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/77.json"
+        },
+        {
+            "heroid": "78",
+            "name": "Khufra",
+            "role": "Tank",
+            "icon": "\/img\/78.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/78.json"
+        },
+        {
+            "heroid": "79",
+            "name": "Granger",
+            "role": "Marksman",
+            "icon": "\/img\/79.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/79.json"
+        },
+        {
+            "heroid": "80",
+            "name": "Guinevere",
+            "role": "Fighter\/Mage",
+            "icon": "\/img\/80.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/80.json"
+        },
+        {
+            "heroid": "81",
+            "name": "Esmeralda",
+            "role": "Mage\/Fighter",
+            "icon": "\/img\/81.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/81.json"
+        },
+        {
+            "heroid": "82",
+            "name": "Terizla",
+            "role": "Fighter",
+            "icon": "\/img\/82.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/82.json"
+        },
+        {
+            "heroid": "83",
+            "name": "X.Borg",
+            "role": "Fighter",
+            "icon": "\/img\/83.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/83.json"
+        },
+        {
+            "heroid": "84",
+            "name": "Ling",
+            "role": "Assassin",
+            "icon": "\/img\/84.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/84.json"
+        },
+        {
+            "heroid": "85",
+            "name": "Dyrroth",
+            "role": "Fighter",
+            "icon": "\/img\/85.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/85.json"
+        },
+        {
+            "heroid": "86",
+            "name": "Lylia",
+            "role": "Mage",
+            "icon": "\/img\/86.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/86.json"
+        },
+        {
+            "heroid": "87",
+            "name": "Baxia",
+            "role": "Tank",
+            "icon": "\/img\/87.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/87.json"
+        },
+        {
+            "heroid": "88",
+            "name": "Masha",
+            "role": "Fighter",
+            "icon": "\/img\/88.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/88.json"
+        },
+        {
+            "heroid": "89",
+            "name": "Wanwan",
+            "role": "Marksman",
+            "icon": "\/img\/89.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/89.json"
+        },
+        {
+            "heroid": "90",
+            "name": "Silvanna",
+            "role": "Fighter",
+            "icon": "\/img\/90.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/90.json"
+        },
+        {
+            "heroid": "91",
+            "name": "Cecilion",
+            "role": "Mage",
+            "icon": "\/img\/91.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/91.json"
+        },
+        {
+            "heroid": "92",
+            "name": "Carmilla",
+            "role": "Support",
+            "icon": "\/img\/92.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/92.json"
+        },
+        {
+            "heroid": "93",
+            "name": "Atlas",
+            "role": "Tank",
+            "icon": "\/img\/93.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/93.json"
+        },
+        {
+            "heroid": "94",
+            "name": "Popol and Kupa",
+            "role": "Marksman",
+            "icon": "\/img\/94.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/94.json"
+        },
+        {
+            "heroid": "95",
+            "name": "Yu Zhong",
+            "role": "Fighter",
+            "icon": "\/img\/95.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/95.json"
+        },
+        {
+            "heroid": "96",
+            "name": "Luo Yi",
+            "role": "Mage",
+            "icon": "\/img\/96.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/96.json"
+        },
+        {
+            "heroid": "97",
+            "name": "Benedetta",
+            "role": "Assassin",
+            "icon": "\/img\/97.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/97.json"
+        },
+        {
+            "heroid": "98",
+            "name": "Khaleed",
+            "role": "Fighter",
+            "icon": "\/img\/98.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/98.json"
+        },
+        {
+            "heroid": "99",
+            "name": "Barats",
+            "role": "Tank\/Fighter",
+            "icon": "\/img\/99.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/99.json"
+        },
+        {
+            "heroid": "100",
+            "name": "Brody",
+            "role": "Marksman",
+            "icon": "\/img\/100.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/100.json"
+        },
+        {
+            "heroid": "101",
+            "name": "Yve",
+            "role": "Mage",
+            "icon": "\/img\/101.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/101.json"
+        },
+        {
+            "heroid": "102",
+            "name": "Mathilda",
+            "role": "Support\/Assassin",
+            "icon": "\/img\/102.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/102.json"
+        },
+        {
+            "heroid": "103",
+            "name": "Paquito",
+            "role": "Fighter",
+            "icon": "\/img\/103.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/103.json"
+        },
+        {
+            "heroid": "104",
+            "name": "Gloo",
+            "role": "Tank",
+            "icon": "\/img\/104.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/104.json"
+        },
+        {
+            "heroid": "105",
+            "name": "Beatrix",
+            "role": "Marksman",
+            "icon": "\/img\/105.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/105.json"
+        },
+        {
+            "heroid": "106",
+            "name": "Phoveus",
+            "role": "Fighter",
+            "icon": "\/img\/106.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/106.json"
+        },
+        {
+            "heroid": "107",
+            "name": "Natan",
+            "role": "Marksman",
+            "icon": "\/img\/107.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/107.json"
+        },
+        {
+            "heroid": "108",
+            "name": "Aulus",
+            "role": "Fighter",
+            "icon": "\/img\/108.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/108.json"
+        },
+        {
+            "heroid": "109",
+            "name": "Aamon",
+            "role": "Assassin",
+            "icon": "\/img\/109.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/109.json"
+        },
+        {
+            "heroid": "110",
+            "name": "Valentina",
+            "role": "Mage",
+            "icon": "\/img\/110.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/110.json"
+        },
+        {
+            "heroid": "111",
+            "name": "Edith",
+            "role": "Tank\/Marksman",
+            "icon": "\/img\/111.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/111.json"
+        },
+        {
+            "heroid": "112",
+            "name": "Floryn",
+            "role": "Support",
+            "icon": "\/img\/112.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/112.json"
+        },
+        {
+            "heroid": "113",
+            "name": "Yin",
+            "role": "Fighter",
+            "icon": "\/img\/113.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/113.json"
+        },
+        {
+            "heroid": "114",
+            "name": "Melissa",
+            "role": "Marksman",
+            "icon": "\/img\/114.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/114.json"
+        },
+        {
+            "heroid": "115",
+            "name": "Xavier",
+            "role": "Mage",
+            "icon": "\/img\/115.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/115.json"
+        },
+        {
+            "heroid": "116",
+            "name": "Julian",
+            "role": "Fighter\/Mage",
+            "icon": "\/img\/116.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/116.json"
+        },
+        {
+            "heroid": "117",
+            "name": "Fredrinn",
+            "role": "Tank\/Fighter",
+            "icon": "\/img\/117.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/117.json"
+        },
+        {
+            "heroid": "118",
+            "name": "Joy",
+            "role": "Assassin",
+            "icon": "\/img\/118.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/118.json"
+        },
+        {
+            "heroid": "119",
+            "name": "Novaria",
+            "role": "Mage",
+            "icon": "\/img\/119.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/119.json"
+        },
+        {
+            "heroid": "120",
+            "name": "Arlott",
+            "role": "Fighter\/Assassin",
+            "icon": "\/img\/120.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/120.json"
+        },
+        {
+            "heroid": "121",
+            "name": "Ixia",
+            "role": "Marksman",
+            "icon": "\/img\/121.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/121.json"
+        },
+        {
+            "heroid": "122",
+            "name": "Nolan",
+            "role": "Assassin",
+            "icon": "\/img\/122.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/122.json"
+        },
+        {
+            "heroid": "123",
+            "name": "Cici",
+            "role": "Fighter",
+            "icon": "\/img\/123.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/123.json"
+        },
+        {
+            "heroid": "124",
+            "name": "Chip",
+            "role": "Support\/Tank",
+            "icon": "\/img\/124.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/124.json"
+        },
+        {
+            "heroid": "125",
+            "name": "Zhu Xin",
+            "role": "Mage",
+            "icon": "\/img\/125.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/125.json"
+        },
+        {
+            "heroid": "126",
+            "name": "Suyou",
+            "role": "Assassin\/Fighter",
+            "icon": "\/img\/126.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/126.json"
+        },
+        {
+            "heroid": "127",
+            "name": "Sora",
+            "role": "Fighter",
+            "icon": "\/img\/127.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/127.json"
+        },
+        {
+            "heroid": "128",
+            "name": "Marcel",
+            "role": "Tank\/Support",
+            "icon": "\/img\/128.png",
+            "detail_api": "https:\/\/raw.githubusercontent.com\/qalesyaSN\/mlbb\/main\/details\/128.json"
+        }
+    ]
+}

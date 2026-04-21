@@ -1,4 +1,11 @@
-[
+{
+    "status": "success",
+    "code": 200,
+    "message": "Data hero berhasil diambil",
+    "meta": {
+        "total": 128
+    },
+    "data": [
     {
         "heroid": "128",
         "name": "Marcel",
@@ -896,3 +903,4 @@
         "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/1.json"
     }
 ]
+}
