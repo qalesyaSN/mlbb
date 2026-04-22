@@ -7,3 +7,7 @@ insert.php
 index.php
 api/
 config/
+access_log
+log
+*log
+log
