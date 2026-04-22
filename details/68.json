@@ -10,13 +10,43 @@
         {
             "heroid": "68",
             "tag_skin": "Starlight",
-            "splash_art": "\/skin_img\/68\/starlight.jpg",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/starlight.jpg",
             "file_zip": "Test"
         },
         {
             "heroid": "68",
             "tag_skin": "Zodiac",
-            "splash_art": "\/skin_img\/68\/zodiac.jpg",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/zodiac.jpg",
+            "file_zip": "Test"
+        },
+        {
+            "heroid": "68",
+            "tag_skin": "Zodiac",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/epic.jpg",
+            "file_zip": "Test"
+        },
+        {
+            "heroid": "68",
+            "tag_skin": "Zodiac",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/epic1.jpg",
+            "file_zip": "Test"
+        },
+        {
+            "heroid": "68",
+            "tag_skin": "Zodiac",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/legends.jpg",
+            "file_zip": "Test"
+        },
+        {
+            "heroid": "68",
+            "tag_skin": "Zodiac",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/luckybox.jpg",
+            "file_zip": "Test"
+        },
+        {
+            "heroid": "68",
+            "tag_skin": "Zodiac",
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/68/mpl.jpg",
             "file_zip": "Test"
         }
     ]
