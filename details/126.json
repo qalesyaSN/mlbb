@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "Data skin berhasil diambil",
+    "meta": {
+        "total": 2,
+        "heroid": 126
+    },
+    "data": [
+        {
+            "splash_art": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/skin_img/126/sasuke-uciha.jpg",
+            "file_zip": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/basicskin/126/"
+        }
+    ]
+}

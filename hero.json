@@ -3,19 +3,47 @@
     "code": 200,
     "message": "Data hero berhasil diambil",
     "meta": {
-        "total": 128
+        "total": 132
     },
     "data": [
     {
-        "heroid": "128",
+        "heroid": "132",
         "name": "Marcel",
+        "role": "Tank/Support",
+        "icon": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/132.png",
+        "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/132.json"
+    },
+    {
+        "heroid": "131",
+        "name": "Sora",
+        "role": "Fighter",
+        "icon": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/131.png",
+        "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/131.json"
+    },
+    {
+        "heroid": "130",
+        "name": "Obsidia",
+        "role": "Marksman",
+        "icon": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/130.png",
+        "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/130.json"
+    },
+    {
+        "heroid": "129",
+        "name": "Zetian",
+        "role": "Mage",
+        "icon": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/129.png",
+        "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/129.json"
+    },
+    {
+        "heroid": "128",
+        "name": "Kalea",
         "role": "Tank/Support",
         "icon": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/128.png",
         "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/128.json"
     },
     {
         "heroid": "127",
-        "name": "Sora",
+        "name": "Lukas",
         "role": "Fighter",
         "icon": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/img/127.png",
         "detail_api": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/details/127.json"
