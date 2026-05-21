@@ -10,13 +10,22 @@
         "id": "1",
         "title": "Test , Informasi Aplikasi",
         "info": "Pembaharuan Aplikasi selesai, sekarang anda dapat menggunakan layanan inject skin lagi.",
-        "category": "Update"
+        "category": "Update",
+        "created_at": "2026-05-09 20:00:00"
     },
     {
         "id": "2",
         "title": "New Added Skin Lunar Fest SUN",
-        "info": "Skin lunar fest SUN telah hadir.",
-        "category": "Information"
+        "info": "Skin lunar fest SUN telah hadir, segera inject untuk menggunakannya.",
+        "category": "Information",
+        "created_at": "2026-05-19 20:00:00"
+    },
+    {
+        "id": "3",
+        "title": "New Added Skin Selena Virus",
+        "info": "Skin Selena virus telah hadir, segera inject untuk menggunakannya.",
+        "category": "Information",
+        "created_at": "2026-05-20 20:00:00"
     }
 ]
 }
