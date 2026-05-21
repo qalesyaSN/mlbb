@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "Data Banner berhasil diambil",
+    "meta": {
+        "total": 1
+    },
+    "data": [
+    {
+        "id": "1",
+        "display_order": "1",
+        "url_image": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/banner/banner1.jpg",
+        "detail_url": ""
+    },
+    {
+        "id": "2",
+        "display_order": "2",
+        "url_image": "https://raw.githubusercontent.com/qalesyaSN/mlbb/main/banner/banner2.jpg",
+        "detail_url": ""
+    }
+]
+}
