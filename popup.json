@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "Data PopUp berhasil diambil",
+    "meta": {
+        "total": 1
+    },
+    "data": [
+    {
+        "url_image": "null",
+        "title": "Test , Informasi Aplikasi",
+        "info": "Pembaharuan Aplikasi selesai, sekarang anda dapat menggunakan layanan inject skin lagi.",
+        "created_at": "2026-05-09 20:00:00"
+    }
+]
+}
