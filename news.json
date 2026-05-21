@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "code": 200,
+    "message": "Data News berhasil diambil",
+    "meta": {
+        "total": 1
+    },
+    "data": [
+    {
+        "id": "1",
+        "title": "Test , Informasi Aplikasi",
+        "info": "Pembaharuan Aplikasi selesai, sekarang anda dapat menggunakan layanan inject skin lagi.",
+        "category": "Update"
+    },
+    {
+        "id": "2",
+        "title": "New Added Skin Lunar Fest SUN",
+        "info": "Skin lunar fest SUN telah hadir.",
+        "category": "Information"
+    }
+]
+}
